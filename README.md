@@ -3,13 +3,13 @@
 ## Screenshots
 
 ### Home
-![Home](https://via.placeholder.com/800x400)
+![Home](https://github.com/DevBhalgamiya/EmployeeTracker/blob/main/EmployeeList.png)
 
 ### Add Employee
-![Add Employee](https://via.placeholder.com/800x400)
+![Add Employee](https://github.com/DevBhalgamiya/EmployeeTracker/blob/main/AddEmployee.png)
 
 ### Edit Employee
-![Edit Employee](https://via.placeholder.com/800x400)
+![Edit Employee](https://github.com/DevBhalgamiya/EmployeeTracker/blob/main/UpdateEmployee.png)
 
 Employee Tracker is a React-based web application designed to manage employee details efficiently. This project provides features to add, edit, and view employee information, making it an essential tool for organizations to maintain their workforce data.
 
